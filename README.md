@@ -22,4 +22,4 @@ Scikit-learn is employed for model building, training, and evaluation. The chose
 
 ## Model Performance
 
-The model is evaluated using the R2 score, resulting in 0.63 for both training and testing data. The R2 score indicates the proportion of the variance in the dependent variable that is predictable from the independent variable. The project results suggest a moderate level of predictability for delivery time based on sorting time, with an R2 score of 0.63.
+The model is evaluated using the R2 score, resulting in 0.63 for both training and testing data. The R2 score indicates the proportion of the variance in the dependent variable that is predictable from the independent variable. The project results suggest a moderate level of predictability for delivery time based on sorting time.
