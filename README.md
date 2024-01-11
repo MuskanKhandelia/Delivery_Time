@@ -1,5 +1,3 @@
-# Delivery_Time
-
 # Delivery Time Prediction
 
 ## Overview
